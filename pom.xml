@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ams</groupId>
-	<artifactId>ams-server</artifactId>
+	<artifactId>ams-server-clone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ams-server</name>
 	<description>Academy management system</description>
